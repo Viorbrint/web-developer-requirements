@@ -13,12 +13,11 @@ Backend technologies:
 - Express.js 
 - Nest.js
 
-## General:
+## General
 
 ### Management:
 
 - SCRUM
-- Slack
 - Agile Boards
 
 ### Hard skills:
@@ -39,7 +38,7 @@ Backend technologies:
 
 - Covering letter
 
-## Backend:
+## Backend
 
 - Node.js 
 - Express.js 
@@ -66,12 +65,13 @@ Backend technologies:
 - GRPC
 - Saga pattern
 
-### It will be a plus if you have experience. 
+### It will be a plus if you have experience;
 
 - Writing tests
 - Linux and Bash scripting
+- Docker
 
-## Frontend:
+## Frontend
 
 - HTML
 - CSS 
@@ -81,11 +81,11 @@ Backend technologies:
 - Babel
 - Webpack/Vite/Gulp
 - Swagger (use, not create)
-- Socket.io
 - Flux architecture
 
-### It will be a plus if you have experience. 
+### It will be a plus if you have experience:
 
+- Socket.io
 - React Testing Library
 - Cypress
 - SCSS
@@ -93,4 +93,4 @@ Backend technologies:
 - Nest
 - PostgreSQL
 - Docker
-- Bootstrap, Foundation, jQueryUI...?
+- Tailwind, Bootstrap, Foundation, jQueryUI...?
